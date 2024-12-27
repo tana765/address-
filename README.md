@@ -1,7 +1,10 @@
-SOLANA ADDRESS :
-
-49vXtiUzyn9XXRmK8o5d8HmhgRBXSEN74veW878K32wb
-
-BITCOIN ADDRESS :
-
-bc1qsrspngj3fgj4ah2aekjzph2j3fpu6ms922r50q
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ma page principale</title>
+</head>
+<body>
+    <h1>Bienvenue</h1>
+    <a href="https://votre-lien-vers-la-page.com">Cliquez ici pour visiter ma page</a>
+</body>
+</html>
