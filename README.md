@@ -1,0 +1,7 @@
+SOLANA ADDRESS :
+
+49vXtiUzyn9XXRmK8o5d8HmhgRBXSEN74veW878K32wb
+
+BITCOIN ADDRESS :
+
+bc1qsrspngj3fgj4ah2aekjzph2j3fpu6ms922r50q
